@@ -1,0 +1,11 @@
+C:\varlocalvariable\bin\Debug\netcoreapp3.0\varlocalvariable.exe
+C:\varlocalvariable\bin\Debug\netcoreapp3.0\varlocalvariable.deps.json
+C:\varlocalvariable\bin\Debug\netcoreapp3.0\varlocalvariable.runtimeconfig.json
+C:\varlocalvariable\bin\Debug\netcoreapp3.0\varlocalvariable.runtimeconfig.dev.json
+C:\varlocalvariable\bin\Debug\netcoreapp3.0\varlocalvariable.dll
+C:\varlocalvariable\bin\Debug\netcoreapp3.0\varlocalvariable.pdb
+C:\varlocalvariable\obj\Debug\netcoreapp3.0\varlocalvariable.csprojAssemblyReference.cache
+C:\varlocalvariable\obj\Debug\netcoreapp3.0\varlocalvariable.AssemblyInfoInputs.cache
+C:\varlocalvariable\obj\Debug\netcoreapp3.0\varlocalvariable.AssemblyInfo.cs
+C:\varlocalvariable\obj\Debug\netcoreapp3.0\varlocalvariable.dll
+C:\varlocalvariable\obj\Debug\netcoreapp3.0\varlocalvariable.pdb
